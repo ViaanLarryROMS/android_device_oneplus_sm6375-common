@@ -30,3 +30,7 @@ persist.timed.enable=true
 # WiFi Display
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+ro.product.marketname := OnePlus Nord CE 3 Lite 5G
+ro.infinity.soc := Qualcomm Snapdragon 695
+ro.infinity.camera := 108MP+2MP+2MP+13MP
